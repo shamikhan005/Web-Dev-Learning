@@ -1,2 +1,2 @@
 # Learning Web development
-(not regular personal website)
+(not my regular personal website)
